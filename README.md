@@ -54,6 +54,12 @@ H(z) = 1 - 2\cos(\omega_0) z^{-1} + z^{-2}
 ```bash
 git clone https://github.com/NinaAmini/Tones-Removal-in-Audio-Signals.git
 cd Tones-Removal-in-Audio-Signals
+```
+2.Install the required dependencies:
+```bash
+pip install numpy matplotlib scipy soundfile sounddevice
+```
+
 
 
 
